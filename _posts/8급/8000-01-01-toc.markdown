@@ -1,0 +1,92 @@
+---
+layout: post
+title:  "8급 Table of Contents"
+date:   2021-05-04 11:47:10 -0700
+categories: 8급
+permalink: "/:categories/toc"
+---
+
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;
+  overflow:hidden;padding:15px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;
+  font-weight:normal;overflow:hidden;padding:15px 5px;word-break:normal;}
+.tg .tg-li6d{border-color:#efefef;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-li6d"><a href="校/">校 <br>학교 교</a></td>
+    <td class="tg-li6d"><a href="敎/">敎 <br>가르칠 교</a></td>
+    <td class="tg-li6d">九 <br>아홉 구</td>
+    <td class="tg-li6d">國 <br>나라 국</td>
+    <td class="tg-li6d">軍 <br>군사 군</td>
+  </tr>
+  <tr>
+    <td class="tg-li6d">金 <br>쇠 금,<br>성 김</td>
+    <td class="tg-li6d">南 <br>남녘 남</td>
+    <td class="tg-li6d">女 <br>계집 녀</td>
+    <td class="tg-li6d">年 <br>해 년</td>
+    <td class="tg-li6d">大 <br>큰 대</td>
+  </tr>
+  <tr>
+    <td class="tg-li6d">東 <br>동녘 동</td>
+    <td class="tg-li6d">六 <br>여섯 륙</td>
+    <td class="tg-li6d">萬 <br>일만 만</td>
+    <td class="tg-li6d">母 <br>어미 모</td>
+    <td class="tg-li6d">木 <br>나무 목</td>
+  </tr>
+  <tr>
+    <td class="tg-li6d">門 <br>문 문</td>
+    <td class="tg-li6d">民 <br>백성 민</td>
+    <td class="tg-li6d">白 <br>흰 백</td>
+    <td class="tg-li6d">父 <br>아비 부</td>
+    <td class="tg-li6d">北 <br>북녘 북,<br>달아날 배</td>
+  </tr>
+  <tr>
+    <td class="tg-li6d">四 <br>넉 사</td>
+    <td class="tg-li6d">山 <br>메 산</td>
+    <td class="tg-li6d">三 <br>석 삼</td>
+    <td class="tg-li6d">生 <br>날 생</td>
+    <td class="tg-li6d">西 <br>서녘 서</td>
+  </tr>
+  <tr>
+    <td class="tg-li6d">先 <br>먼저 선</td>
+    <td class="tg-li6d">小 <br>작을 소</td>
+    <td class="tg-li6d">水 <br>물 수</td>
+    <td class="tg-li6d">室 <br>집 실</td>
+    <td class="tg-li6d">十 <br>열 십</td>
+  </tr>
+  <tr>
+    <td class="tg-li6d">五 <br>다섯 오</td>
+    <td class="tg-li6d">王 <br>임금 왕</td>
+    <td class="tg-li6d">外 <br>바깥 외</td>
+    <td class="tg-li6d">月 <br>달 월</td>
+    <td class="tg-li6d">二 <br>두 이</td>
+  </tr>
+  <tr>
+    <td class="tg-li6d">人 <br>사람 인</td>
+    <td class="tg-li6d">一 <br>한 일</td>
+    <td class="tg-li6d">日 <br>날 일</td>
+    <td class="tg-li6d">長 <br>긴 장</td>
+    <td class="tg-li6d">弟 <br>아우 제</td>
+  </tr>
+  <tr>
+    <td class="tg-li6d">中 <br>가운데 중</td>
+    <td class="tg-li6d">靑 <br>푸를 청</td>
+    <td class="tg-li6d">寸 <br>마디 촌</td>
+    <td class="tg-li6d">七 <br>일곱 칠</td>
+    <td class="tg-li6d">土 <br>흙 토</td>
+  </tr>
+  <tr>
+    <td class="tg-li6d">八 <br>여덟 팔</td>
+    <td class="tg-li6d">學 <br>배울 학</td>
+    <td class="tg-li6d">韓 <br>한국/나라 한</td>
+    <td class="tg-li6d">兄 <br>형 형</td>
+    <td class="tg-li6d">火 <br>불 화</td>
+  </tr>
+</tbody>
+</table>

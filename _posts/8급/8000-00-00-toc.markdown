@@ -1,8 +1,0 @@
----
-layout: post
-title:  "8급"
-date:   2021-05-04 11:47:10 -0700
-categories: 8급
----
-
-8급
