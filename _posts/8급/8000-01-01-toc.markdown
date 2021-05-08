@@ -21,16 +21,16 @@ permalink: "/:categories/toc"
   <tr>
     <td class="tg-li6d"><a href="校/">校 <br>학교 교</a></td>
     <td class="tg-li6d"><a href="敎/">敎 <br>가르칠 교</a></td>
-    <td class="tg-li6d">九 <br>아홉 구</td>
-    <td class="tg-li6d">國 <br>나라 국</td>
-    <td class="tg-li6d">軍 <br>군사 군</td>
+    <td class="tg-li6d"><a href="九/">九 <br>아홉 구</a></td>
+    <td class="tg-li6d"><a href="國/">國 <br>나라 국</a></td>
+    <td class="tg-li6d"><a href="軍/">軍 <br>군사 군</a></td>
   </tr>
   <tr>
-    <td class="tg-li6d">金 <br>쇠 금,<br>성 김</td>
-    <td class="tg-li6d">南 <br>남녘 남</td>
-    <td class="tg-li6d">女 <br>계집 녀</td>
-    <td class="tg-li6d">年 <br>해 년</td>
-    <td class="tg-li6d">大 <br>큰 대</td>
+    <td class="tg-li6d"><a href="金/">金 <br>쇠 금,<br>성 김</a></td>
+    <td class="tg-li6d"><a href="南/">南 <br>남녘 남</a></td>
+    <td class="tg-li6d"><a href="女/">女 <br>여자 녀</a></td>
+    <td class="tg-li6d"><a href="年/">年 <br>해 년</a></td>
+    <td class="tg-li6d"><a href="大/">大 <br>큰 대</a></td>
   </tr>
   <tr>
     <td class="tg-li6d">東 <br>동녘 동</td>
