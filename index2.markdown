@@ -16,7 +16,7 @@ If you are a complete beginner to hanja, you may want to start with [this guide]
 ***
 
 <h3>Beginner Levels</h3> 
-[8급](8급/toc) &rarr; 준7급 &rarr; 7급 &rarr; 준6급 &rarr; 6급 <br><br>
+[8급](8급/toc) &rarr; [준7급](준7급/toc) &rarr; [7급](7급/toc) &rarr; 준6급 &rarr; 6급 <br><br>
 
 ***
 

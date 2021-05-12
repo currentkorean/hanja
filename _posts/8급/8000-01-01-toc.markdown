@@ -33,11 +33,11 @@ permalink: "/:categories/toc"
     <td class="tg-li6d"><a href="大/">大 <br>큰 대</a></td>
   </tr>
   <tr>
-    <td class="tg-li6d">東 <br>동녘 동</td>
-    <td class="tg-li6d">六 <br>여섯 륙</td>
-    <td class="tg-li6d">萬 <br>일만 만</td>
-    <td class="tg-li6d">母 <br>어미 모</td>
-    <td class="tg-li6d">木 <br>나무 목</td>
+    <td class="tg-li6d"><a href="東/">東 <br>동녘 동</a></td>
+    <td class="tg-li6d"><a href="六/">六 <br>여섯 륙</a></td>
+    <td class="tg-li6d"><a href="萬/">萬 <br>일만 만</a></td>
+    <td class="tg-li6d"><a href="母/">母 <br>어미 모</a></td>
+    <td class="tg-li6d"><a href="木/">木 <br>나무 목</a></td>
   </tr>
   <tr>
     <td class="tg-li6d">門 <br>문 문</td>
