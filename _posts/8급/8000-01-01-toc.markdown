@@ -36,15 +36,15 @@ permalink: "/:categories/toc"
     <td class="tg-li6d"><a href="東/">東 <br>동녘 동</a></td>
     <td class="tg-li6d"><a href="六/">六 <br>여섯 륙</a></td>
     <td class="tg-li6d"><a href="萬/">萬 <br>일만 만</a></td>
-    <td class="tg-li6d"><a href="母/">母 <br>어미 모</a></td>
+    <td class="tg-li6d"><a href="母/">母 <br>어머니 모</a></td>
     <td class="tg-li6d"><a href="木/">木 <br>나무 목</a></td>
   </tr>
   <tr>
-    <td class="tg-li6d">門 <br>문 문</td>
-    <td class="tg-li6d">民 <br>백성 민</td>
-    <td class="tg-li6d">白 <br>흰 백</td>
-    <td class="tg-li6d">父 <br>아비 부</td>
-    <td class="tg-li6d">北 <br>북녘 북,<br>달아날 배</td>
+    <td class="tg-li6d"><a href="門/">門 <br>문 문</a></td>
+    <td class="tg-li6d"><a href="民/">民 <br>백성 민</a></td>
+    <td class="tg-li6d"><a href="白/">白 <br>흰 백</a></td>
+    <td class="tg-li6d"><a href="父/">父 <br>아비 부</a></td>
+    <td class="tg-li6d"><a href="北/">北 <br>북녘 북,<br>달아날 배</a></td>
   </tr>
   <tr>
     <td class="tg-li6d">四 <br>넉 사</td>
