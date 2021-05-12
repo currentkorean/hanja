@@ -19,32 +19,32 @@ permalink: "/:categories/toc"
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-li6d"><a href="校/">校 <br>학교 교</a></td>
-    <td class="tg-li6d"><a href="敎/">敎 <br>가르칠 교</a></td>
-    <td class="tg-li6d"><a href="九/">九 <br>아홉 구</a></td>
-    <td class="tg-li6d"><a href="國/">國 <br>나라 국</a></td>
-    <td class="tg-li6d"><a href="軍/">軍 <br>군사 군</a></td>
+    <td class="tg-li6d"><a href="校.html">校 <br>학교 교</a></td>
+    <td class="tg-li6d"><a href="敎.html">敎 <br>가르칠 교</a></td>
+    <td class="tg-li6d"><a href="九.html">九 <br>아홉 구</a></td>
+    <td class="tg-li6d"><a href="國.html">國 <br>나라 국</a></td>
+    <td class="tg-li6d"><a href="軍.html">軍 <br>군사 군</a></td>
   </tr>
   <tr>
-    <td class="tg-li6d"><a href="金/">金 <br>쇠 금,<br>성 김</a></td>
-    <td class="tg-li6d"><a href="南/">南 <br>남녘 남</a></td>
-    <td class="tg-li6d"><a href="女/">女 <br>여자 녀</a></td>
-    <td class="tg-li6d"><a href="年/">年 <br>해 년</a></td>
-    <td class="tg-li6d"><a href="大/">大 <br>큰 대</a></td>
+    <td class="tg-li6d"><a href="金.html">金 <br>쇠 금,<br>성 김</a></td>
+    <td class="tg-li6d"><a href="南.html">南 <br>남녘 남</a></td>
+    <td class="tg-li6d"><a href="女.html">女 <br>여자 녀</a></td>
+    <td class="tg-li6d"><a href="年.html">年 <br>해 년</a></td>
+    <td class="tg-li6d"><a href="大.html">大 <br>큰 대</a></td>
   </tr>
   <tr>
-    <td class="tg-li6d"><a href="東/">東 <br>동녘 동</a></td>
-    <td class="tg-li6d"><a href="六/">六 <br>여섯 륙</a></td>
-    <td class="tg-li6d"><a href="萬/">萬 <br>일만 만</a></td>
-    <td class="tg-li6d"><a href="母/">母 <br>어머니 모</a></td>
-    <td class="tg-li6d"><a href="木/">木 <br>나무 목</a></td>
+    <td class="tg-li6d"><a href="東.html">東 <br>동녘 동</a></td>
+    <td class="tg-li6d"><a href="六.html">六 <br>여섯 륙</a></td>
+    <td class="tg-li6d"><a href="萬.html">萬 <br>일만 만</a></td>
+    <td class="tg-li6d"><a href="母.html">母 <br>어머니 모</a></td>
+    <td class="tg-li6d"><a href="木.html">木 <br>나무 목</a></td>
   </tr>
   <tr>
-    <td class="tg-li6d"><a href="門/">門 <br>문 문</a></td>
-    <td class="tg-li6d"><a href="民/">民 <br>백성 민</a></td>
-    <td class="tg-li6d"><a href="白/">白 <br>흰 백</a></td>
-    <td class="tg-li6d"><a href="父/">父 <br>아비 부</a></td>
-    <td class="tg-li6d"><a href="北/">北 <br>북녘 북,<br>달아날 배</a></td>
+    <td class="tg-li6d"><a href="門.html">門 <br>문 문</a></td>
+    <td class="tg-li6d"><a href="民.html">民 <br>백성 민</a></td>
+    <td class="tg-li6d"><a href="白.html">白 <br>흰 백</a></td>
+    <td class="tg-li6d"><a href="父.html">父 <br>아비 부</a></td>
+    <td class="tg-li6d"><a href="北.html">北 <br>북녘 북,<br>달아날 배</a></td>
   </tr>
   <tr>
     <td class="tg-li6d">四 <br>넉 사</td>
