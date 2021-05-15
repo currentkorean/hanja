@@ -6,9 +6,9 @@ permalink: /about/
 
 This site is inspired by the actual hanja notebooks I created while studying Korean.
 
-I had several false starts while learning hanja. I tried reading various English-language hanja books and was frustrated by all of them. These books attempted to make hanja "easier" for native English speakers by presenting hanja characters by themes or subjects rather than by frequency of use. Learning hanja in this manner left me with little ability to recall anything I had learned.
+I had several false starts while learning hanja. I tried reading various English-language hanja books and was frustrated by all of them. These books attempted to make hanja "easier" for native English speakers by presenting hanja characters by themes or subjects rather than by frequency of use. When using these books I did not notice an advantage to learning hanja characters by theme, and instead I felt like the method was needlessly slowing me down.
 
-One day I stumbled upon the hanja list used by Koreans who are studying for the government hanja exam. Studying this list was challenging at first, especially since everything was written in Korean, but I eventually got the hang of things. After learning about 200 characters, my Korean vocabulary soared.
+One day I stumbled upon the hanja lists used by Koreans who are studying for the government hanja exam. The lists are organized by level of difficulty. Although studying the Korean list was challenging at first, because I had to immerse myself entirely in Korean, I eventually got the hang of things. After learning about 200 characters, my ability to understand and retain Korean vocabulary began to soar.
 
 I came to the conclusion that when it comes to learning hanja, there is no need to reinvent the wheel. It was better for me to learn hanja in the same order as Koreans do for the government exam, rather than use an innovative method geared toward native English speakers. However, if you find the innovative methods useful, by all means keep using them. This site is for those wanting to stick with a more traditional method.
 

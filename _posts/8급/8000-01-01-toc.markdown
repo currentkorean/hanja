@@ -43,7 +43,7 @@ permalink: "/:categories/toc"
     <td class="tg-li6d"><a href="門.html">門 <br>문 문</a></td>
     <td class="tg-li6d"><a href="民.html">民 <br>백성 민</a></td>
     <td class="tg-li6d"><a href="白.html">白 <br>흰 백</a></td>
-    <td class="tg-li6d"><a href="父.html">父 <br>아비 부</a></td>
+    <td class="tg-li6d"><a href="父.html">父 <br>아버지 부</a></td>
     <td class="tg-li6d"><a href="北.html">北 <br>북녘 북,<br>달아날 배</a></td>
   </tr>
   <tr>
