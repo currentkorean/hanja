@@ -47,11 +47,11 @@ permalink: "/:categories/toc"
     <td class="tg-li6d"><a href="北.html">北 <br>북녘 북,<br>달아날 배</a></td>
   </tr>
   <tr>
-    <td class="tg-li6d">四 <br>넉 사</td>
-    <td class="tg-li6d">山 <br>메 산</td>
-    <td class="tg-li6d">三 <br>석 삼</td>
-    <td class="tg-li6d">生 <br>날 생</td>
-    <td class="tg-li6d">西 <br>서녘 서</td>
+    <td class="tg-li6d"><a href="四.html">四 <br>넉 사</a></td>
+    <td class="tg-li6d"><a href="山.html">山 <br>메 산</a></td>
+    <td class="tg-li6d"><a href="三.html">三 <br>석 삼</a></td>
+    <td class="tg-li6d"><a href="生.html">生 <br>날 생</a></td>
+    <td class="tg-li6d"><a href="西.html">西 <br>서녘 서</a></td>
   </tr>
   <tr>
     <td class="tg-li6d">先 <br>먼저 선</td>
