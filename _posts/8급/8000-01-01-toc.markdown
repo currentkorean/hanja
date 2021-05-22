@@ -54,11 +54,11 @@ permalink: "/:categories/toc"
     <td class="tg-li6d"><a href="西.html">西 <br>서녘 서</a></td>
   </tr>
   <tr>
-    <td class="tg-li6d">先 <br>먼저 선</td>
-    <td class="tg-li6d">小 <br>작을 소</td>
-    <td class="tg-li6d">水 <br>물 수</td>
-    <td class="tg-li6d">室 <br>집 실</td>
-    <td class="tg-li6d">十 <br>열 십</td>
+    <td class="tg-li6d"><a href="先.html">先 <br>먼저 선</a></td>
+    <td class="tg-li6d"><a href="小.html">小 <br>작을 소</a></td>
+    <td class="tg-li6d"><a href="水.html">水 <br>물 수</a></td>
+    <td class="tg-li6d"><a href="室.html">室 <br>집 실</a></td>
+    <td class="tg-li6d"><a href="十.html">十 <br>열 십</a></td>
   </tr>
   <tr>
     <td class="tg-li6d">五 <br>다섯 오</td>
