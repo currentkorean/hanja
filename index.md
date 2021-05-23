@@ -6,11 +6,11 @@ The HANJA LIST is a resource for those who wish to learn hanja characters accord
 
 Click on the appropriate 급 (level) to see a list of the hanja characters and their Korean names. From there, click on the hanja you wish to study to see the definition and a vocabulary list.<br><br>
 
-<!--
+<!--Add this if I ever get around to writing a beginner's guide:
 If you are a complete beginner to hanja, you may want to start with [this guide](guide/). <br><br>
 -->
 
-**Site update:** 30 out of 50 characters in 8급 completed as of 2021.05.22 <br><br>
+**Site update:** 35 out of 50 characters in 8급 completed as of 2021.05.23 <br><br>
 
 ***
 

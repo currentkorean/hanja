@@ -6,7 +6,7 @@ categories: 8급
 permalink: "/:categories/toc"
 ---
 
-
+(Characters are listed alphabetically by their Korean sound.)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -61,11 +61,11 @@ permalink: "/:categories/toc"
     <td class="tg-li6d"><a href="十.html">十 <br>열 십</a></td>
   </tr>
   <tr>
-    <td class="tg-li6d">五 <br>다섯 오</td>
-    <td class="tg-li6d">王 <br>임금 왕</td>
-    <td class="tg-li6d">外 <br>바깥 외</td>
-    <td class="tg-li6d">月 <br>달 월</td>
-    <td class="tg-li6d">二 <br>두 이</td>
+    <td class="tg-li6d"><a href="五.html">五 <br>다섯 오</a></td>
+    <td class="tg-li6d"><a href="王.html">王 <br>임금 왕</a></td>
+    <td class="tg-li6d"><a href="外.html">外 <br>바깥 외</a></td>
+    <td class="tg-li6d"><a href="月.html">月 <br>달 월</a></td>
+    <td class="tg-li6d"><a href="二.html">二 <br>두 이</a></td>
   </tr>
   <tr>
     <td class="tg-li6d">人 <br>사람 인</td>
