@@ -68,11 +68,11 @@ permalink: "/:categories/toc"
     <td class="tg-li6d"><a href="二.html">二 <br>두 이</a></td>
   </tr>
   <tr>
-    <td class="tg-li6d">人 <br>사람 인</td>
-    <td class="tg-li6d">一 <br>한 일</td>
-    <td class="tg-li6d">日 <br>날 일</td>
-    <td class="tg-li6d">長 <br>긴 장</td>
-    <td class="tg-li6d">弟 <br>아우 제</td>
+    <td class="tg-li6d"><a href="人.html">人 <br>사람 인</a></td>
+    <td class="tg-li6d"><a href="一.html">一 <br>한 일</a></td>
+    <td class="tg-li6d"><a href="日.html">日 <br>날 일</a></td>
+    <td class="tg-li6d"><a href="長.html">長 <br>긴 장</a></td>
+    <td class="tg-li6d"><a href="弟.html">弟 <br>아우 제</a></td>
   </tr>
   <tr>
     <td class="tg-li6d">中 <br>가운데 중</td>
