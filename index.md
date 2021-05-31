@@ -10,7 +10,7 @@ Click on the appropriate 급 (level) to see a list of the hanja characters and t
 If you are a complete beginner to hanja, you may want to start with [this guide](guide/). <br><br>
 -->
 
-**Site update:** 35 out of 50 characters in 8급 completed as of 2021.05.23 <br><br>
+**Site update:** 45 out of 50 characters in 8급 completed as of 2021.05.31 <br><br>
 
 ***
 

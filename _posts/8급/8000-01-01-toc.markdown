@@ -75,11 +75,11 @@ permalink: "/:categories/toc"
     <td class="tg-li6d"><a href="弟.html">弟 <br>아우 제</a></td>
   </tr>
   <tr>
-    <td class="tg-li6d">中 <br>가운데 중</td>
-    <td class="tg-li6d">靑 <br>푸를 청</td>
-    <td class="tg-li6d">寸 <br>마디 촌</td>
-    <td class="tg-li6d">七 <br>일곱 칠</td>
-    <td class="tg-li6d">土 <br>흙 토</td>
+    <td class="tg-li6d"><a href="中.html">中 <br>가운데 중</a></td>
+    <td class="tg-li6d"><a href="靑.html">靑 <br>푸를 청</a></td>
+    <td class="tg-li6d"><a href="寸.html">寸 <br>마디 촌</a></td>
+    <td class="tg-li6d"><a href="七.html">七 <br>일곱 칠</a></td>
+    <td class="tg-li6d"><a href="土.html">土 <br>흙 토</a></td>
   </tr>
   <tr>
     <td class="tg-li6d">八 <br>여덟 팔</td>
