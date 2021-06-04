@@ -82,11 +82,11 @@ permalink: "/:categories/toc"
     <td class="tg-li6d"><a href="土.html">土 <br>흙 토</a></td>
   </tr>
   <tr>
-    <td class="tg-li6d">八 <br>여덟 팔</td>
-    <td class="tg-li6d">學 <br>배울 학</td>
-    <td class="tg-li6d">韓 <br>한국/나라 한</td>
-    <td class="tg-li6d">兄 <br>형 형</td>
-    <td class="tg-li6d">火 <br>불 화</td>
+    <td class="tg-li6d"><a href="八.html">八 <br>여덟 팔</a></td>
+    <td class="tg-li6d"><a href="學.html">學 <br>배울 학</a></td>
+    <td class="tg-li6d"><a href="韓.html">韓 <br>한국/나라 한</a></td>
+    <td class="tg-li6d"><a href="兄.html">兄 <br>형 형</a></td>
+    <td class="tg-li6d"><a href="火.html">火 <br>불 화</a></td>
   </tr>
 </tbody>
 </table>

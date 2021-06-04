@@ -8,4 +8,4 @@ The Hanja List will take a lifetime to complete if I do this on my own. You are 
 
 * Notify me of any errors on this site.
 * Suggest ways I can make this site better.
-* If you're familiar with building websites, add content to this site through my [github repository](https://github.com/currentkorean/hanja).
+* If you're familiar with web development, help me build this site by looking at the to-do list in my [github repository](https://github.com/currentkorean/hanja).

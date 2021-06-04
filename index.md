@@ -2,7 +2,7 @@
 layout: home
 ---
 
-The HANJA LIST is a resource for those who wish to learn hanja characters according to how frequently they are used in the Korean language. The list is arranged from 8급 (more frequent) to 1급 (less frequent).
+The HANJA LIST is a resource for those who wish to learn hanja characters according to how frequently they are used in the Korean language. The list is arranged from 8급 (more frequent) to 특급 (less frequent).
 
 Click on the appropriate 급 (level) to see a list of the hanja characters and their Korean names. From there, click on the hanja you wish to study to see the definition and a vocabulary list.<br><br>
 
@@ -10,7 +10,7 @@ Click on the appropriate 급 (level) to see a list of the hanja characters and t
 If you are a complete beginner to hanja, you may want to start with [this guide](guide/). <br><br>
 -->
 
-**Site update:** 45 out of 50 characters in 8급 completed as of 2021.05.31 <br><br>
+**Site update:** 8급 100% complete, 준7급 0% complete as of 2021.06.04 <br><br>
 
 ***
 
@@ -25,4 +25,4 @@ If you are a complete beginner to hanja, you may want to start with [this guide]
 ***
 
 <h3>Advanced Levels</h3> 
-2급 &rarr; 1급 <br>
+2급 &rarr; 1급 &rarr; 특급 <br>
