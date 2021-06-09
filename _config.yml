@@ -22,7 +22,7 @@ title: HANJA LIST
 author: A passion project by Minna
 email: hanjalist@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Quickly advance your Korean vocabulary through hanja
+  Quickly advance your Korean vocabulary by learning hanja
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.hanjalist.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: currentkorean
