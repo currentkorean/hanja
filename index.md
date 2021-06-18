@@ -10,8 +10,8 @@ Click on the appropriate 급 (level) to see a list of the hanja characters and t
 If you are a complete beginner to hanja, you may want to start with [this guide](guide/). <br><br>
 -->
 
-**Site updates as of 2021.06.09:** <br>
-8급 100% complete. 준7급 10% complete. 7급 0% complete. 준6급 0% complete. 6급 9.3% complete. <br><br>
+**Site updates as of 2021.06.17:** <br>
+8급 100% complete. 준7급 20% complete. 7급 0% complete. 준6급 0% complete. 6급 9.3% complete. <br><br>
 
 ***
 
