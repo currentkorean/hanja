@@ -14,7 +14,7 @@ One day I stumbled upon the hanja lists used by Koreans who are studying for the
 <h3>How this site is organized</h3>
 The hanja characters are organized by difficulty level, where 8급 is the easiest level and 특급 is the most difficult level. Within each 급 the characters are arranged alphabetically by their Korean sound. Each hanja character has its own page, and on each page I have attempted to list high-frequency words that are derived from the hanja.
 
-Identifying all of the high-frequency vocabulary is not easy. My general rule of thumb is to include words identified in the Naver Dictionary as TOPIK I and TOPIC II words, as well as words marked with at least one star in the Korean-English Learners' Dictionary. Due to limited time and resources, I generally do not define more than 20 vocabulary words per page. I would like to create more comprehensive vocabulary lists in the future, but I suspect this will take several years to complete.
+Identifying all of the high-frequency vocabulary is not easy. My general rule of thumb is to include words marked with at least one star in the Korean-English Learners' Dictionary. ⭐⭐⭐ indicates the most frequently used words, or words typically seen at the TOPIK I level. ⭐⭐ indicates the next most frequently used words, or about the equivalent of the TOPIK II level. ⭐ indicates words that are more suitable for advanced Korean learners.
 
 <h3>Resources used to build this site</h3>
 * [나무위키 한자/목록/급수별](https://namu.wiki/w/%ED%95%9C%EC%9E%90/%EB%AA%A9%EB%A1%9D/%EA%B8%89%EC%88%98%EB%B3%84)
